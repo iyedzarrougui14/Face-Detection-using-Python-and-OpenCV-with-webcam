@@ -1,0 +1,2 @@
+# Face-Detection-using-Python-and-OpenCV-with-webcam
+This project uses Python and OpenCV to perform real-time face detection using a webcam. It leverages OpenCV's pre-trained Haar Cascade classifier to identify faces in video frames, providing an efficient and accessible solution for facial recognition applications. The system captures live video, processes each frame, and highlights detected faces.
